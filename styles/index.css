@@ -259,6 +259,12 @@ main {
   width: 250px;
 }
 
+.portrait > img {
+  width: 90px;
+  height: 160px;
+}
+
+
 .project-content {
   display: grid;
   grid-template-rows: 62px 110px 75px;
@@ -276,6 +282,7 @@ main {
   width: 30px;
   padding: 5px;
 }
+
 
 /* contact section */
 
