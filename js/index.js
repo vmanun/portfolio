@@ -1,4 +1,4 @@
-var navHeight = 70;
+var navHeight = 90;
 var topSection = document.getElementById('top');
 var skillsSection = document.getElementById('skills');
 var projectsSection = document.getElementById('projects');
